@@ -1,4 +1,4 @@
-Basierend auf der Projektbeschreibung, die Sie zuvor gegeben haben, hier sind einige Vorschläge und Funktionen, die in das Projekt `CampResidentManager` integriert werden:
+ Vorschläge und Funktionen, die in das Projekt `CampResidentManager` integriert werden:
 
 1. **Benutzerregistrierung und -anmeldung**:
    - Ermöglichen Sie den Camp-Bewohnern, sich zu registrieren und anzumelden, um auf ihre persönlichen Daten und Reservierungen zuzugreifen.
